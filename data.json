@@ -1,0 +1,6 @@
+{
+  "books": [
+    { "name": "Harry Potter 1", "author": "Author-3", "slug": "harry-potter" },
+    { "name": "Harry Potter 2", "author": "Author", "slug": "harry-potter-2" }
+  ]
+}
